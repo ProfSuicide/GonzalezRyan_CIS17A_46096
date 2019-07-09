@@ -1,0 +1,1 @@
+Tellp returns the write position as tellg returns the read position.
